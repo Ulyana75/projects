@@ -1,0 +1,2 @@
+D:/Desktop/LABS/2sem/Proga/RubiksCube/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/LABS/2sem/Proga/RubiksCube/cmake-build-debug/CMakeFiles/rebuild_cache.dir

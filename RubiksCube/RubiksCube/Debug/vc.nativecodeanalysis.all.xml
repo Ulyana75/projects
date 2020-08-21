@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\labs\2sem\proga\rubikscube\rubikscube</FILEPATH>
+      <FILENAME>rubiks_cube.h</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'CFacet::facet' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>CFacet::{ctor}</FUNCTION>
+    <DECORATED>??0CFacet@@QAE@H@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\labs\2sem\proga\rubikscube\rubikscube</FILEPATH>
+      <FILENAME>rubiks_cube.h</FILENAME>
+      <LINE>40</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'CFacet::facet' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>CFacet::{ctor}</FUNCTION>
+    <DECORATED>??0CFacet@@QAE@ABV0@@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\labs\2sem\proga\rubikscube\rubikscube</FILEPATH>
+      <FILENAME>big_cube.h</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'BigCube::size' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>BigCube::{ctor}</FUNCTION>
+    <DECORATED>??0BigCube@@QAE@N@Z</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\desktop\labs\2sem\proga\rubikscube\rubikscube</FILEPATH>
+      <FILENAME>big_cube.h</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'BigCube::size' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>BigCube::{ctor}</FUNCTION>
+    <DECORATED>??0BigCube@@QAE@XZ</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

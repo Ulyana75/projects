@@ -1,0 +1,11 @@
+﻿  cube_solution.cpp
+  RubiksCube.cpp
+  rubiks_cube.cpp
+d:\desktop\labs\2sem\proga\rubikscube\rubikscube\rubiks_cube.cpp(20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Компиляция...
+  Создание кода...
+  RubiksCube.vcxproj -> d:\Desktop\LABS\2sem\Proga\RubiksCube\Debug\RubiksCube.exe
+d:\desktop\labs\2sem\proga\rubikscube\rubikscube\rubiks_cube.h(34): warning C26495: Variable 'CFacet::facet' is uninitialized. Always initialize a member variable (type.6).
+d:\desktop\labs\2sem\proga\rubikscube\rubikscube\rubiks_cube.h(40): warning C26495: Variable 'CFacet::facet' is uninitialized. Always initialize a member variable (type.6).
+d:\desktop\labs\2sem\proga\rubikscube\rubikscube\big_cube.h(13): warning C26495: Variable 'BigCube::size' is uninitialized. Always initialize a member variable (type.6).
+d:\desktop\labs\2sem\proga\rubikscube\rubikscube\big_cube.h(12): warning C26495: Variable 'BigCube::size' is uninitialized. Always initialize a member variable (type.6).
